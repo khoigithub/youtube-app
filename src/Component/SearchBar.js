@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-//second commit test in SearchBar
+//forth commit test in SearchBar
 
 const SearchBar = ({ onFormSubmit }) => {
     const [term, setTerm] = useState('');
